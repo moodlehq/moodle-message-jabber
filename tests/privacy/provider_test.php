@@ -32,7 +32,7 @@ use core_privacy\tests\provider_testcase;
  * @copyright  2018 Mihail Geshoski <mihail@moodle.com>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-class privacy_test extends provider_testcase {
+class provider_test extends provider_testcase {
 
     /**
      * Basic setup for these tests.
